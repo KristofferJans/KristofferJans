@@ -1,10 +1,9 @@
-#About me
+# About me
 
-- 👋 Hi, I’m @KristofferJans
-- 👀 I’m interested in Technolgy.
-- 🌱 I’m currently learning WebDev.
+- 👋 Hi, I’m **@KristofferJans**
+- 👀 I’m interested in **Technolgy**.
+- 🌱 I’m currently learning **WebDev**.
 - 💞️ I’m looking to collaborate on our WebDev Bootcamp.
-- 📫 How to reach me Drop me a message!
 
 <!---
 KristofferJans/KristofferJans is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
